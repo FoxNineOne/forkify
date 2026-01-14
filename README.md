@@ -28,6 +28,7 @@ https://forkify-foxnineone.netlify.app/
 - Data transformation and normalisation
 - Local storage for persistence
 - Modular JavaScript application structure
+- Separation of concerns using MVC-style architecture
 
 ## How to Run Locally
 1. Clone the repository
