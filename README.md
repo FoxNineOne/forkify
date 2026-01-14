@@ -1,8 +1,34 @@
-# forkify Project
+# Forkify
 
-Recipe application with custom recipe upload and bookmarking.
-This application utilises API calls and data manipulation to scrape recipes via keyword searching and present them in an organised, paginated format.
-Bookmarking and creation of user-made recipes is made available with local browser storage.
+## Overview
+Forkify is a JavaScript-based recipe application that allows users to search, view, bookmark, and create recipes.
 
-A demonstration of this site can be found here:
+The app retrieves recipe data via API calls, processes and normalises the results, and presents them in a paginated, user-friendly format.
+
+## Live Demo
 https://forkify-foxnineone.netlify.app/
+
+## Tech Stack
+- JavaScript
+- HTML
+- CSS
+- External Recipe API
+
+## Features
+- Keyword-based recipe search
+- Paginated search results
+- Detailed recipe view
+- Bookmarking using local browser storage
+- Custom user recipe creation
+- Persistent state across sessions
+
+## What This Project Demonstrates
+- Working with third-party APIs
+- Client-side state management
+- Data transformation and normalisation
+- Local storage for persistence
+- Modular JavaScript application structure
+
+## How to Run Locally
+1. Clone the repository
+2. Open `index.html` in a browser
